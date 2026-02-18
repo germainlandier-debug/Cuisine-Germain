@@ -1,0 +1,7 @@
+{
+  "name": "GourmetFlow",
+  "description": "An intelligent kitchen companion for managing recipes, tracking pantry stock, and generating smart shopping lists using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
